@@ -72,7 +72,6 @@ cd cd0157-Server-Deployment-and-Containerization/
 ├── test_main.py  #ToDo
 └── trust.json     #ToDo 
 ```
-
      
 ## Project Steps
 
